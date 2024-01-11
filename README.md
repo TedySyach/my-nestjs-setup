@@ -64,7 +64,7 @@ Install with pnpm
      @IsNotEmpty()
      email: string;
 
-   	@IsString()
+   	 @IsString()
      @IsNotEmpty()
      password: string;
    }
